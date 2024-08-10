@@ -20,7 +20,7 @@ def creat_super_trinagle(L):
      plt,prt,prb,plb = (xmin -1,ymax+1),(xmax +1,ymax+1),(xmax +1,ymin-1),(xmin -1,ymin - 1)
      a1 = -(prt[0]-plb[0])/(prt[1]-plb[1])
      a2 = -(plt[0]-prb[0])/(plt[1]-prb[1])
-     print(plt,plb,prt,prb)
+   
 
      b1 = prt[1]- a1*prt[0]
      b2 = plt[1]- a2*plt[0]
@@ -77,30 +77,7 @@ def  triangilisation(P):
           triagle_to_be_removed = []
           new_triangles = []
      return denely_trinagilisation(triangles,P)
-# print(triangilisation(points))
-# plt.scatter([point[0] for point in points],[point[1] for point in points])
-# plt.show()
-# print(cercle_of_triangle([(1,2),(4,6),(5,1)]))
-# import matplotlib.pyplot as plt
-# import matplotlib.tri as tri
-# import numpy as np
 
-# # Exemple de coordonnées des sommets du triangle
-# triangles = triangilisation(points)
-# for tr in triangles:
-#  x = np.array([tr[0][0], tr[1][0], tr[2][0]])
-#  y = np.array([tr[0][1], tr[1][1], tr[2][1]])
-
-#  # Créer une triangulation
-#  triangulation = tri.Triangulation(x, y)
-
-#  # Tracer la triangulation
-#  plt.triplot(triangulation, '', label='')
-#  plt.scatter([x for x,y in points],[y for x,y in points])
-# plt.scatter([x for x,y in sup_tr],[y for x,y in sup_tr],c='red')
-
-
-# plt.show()
 
 
 
