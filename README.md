@@ -30,7 +30,7 @@ Below are some screenshots of the application:
 ![Main Window](images/main_window.png)
 
 ### Triangulation Example
-![Triangulation Example](images/triangulation_example.png)
+![Triangulation Example]()
 
 ## Installation
 
@@ -40,10 +40,4 @@ Below are some screenshots of the application:
 cd triangulation-project
 pip install -r requirements.txt
 
-### Main Window
-![Main Window](<img width="498" alt="image" src="https://github.com/user-attachments/assets/2693fafe-c80a-48c7-b309-1b5e30d4a98b">
-)
 
-### Triangulation Example
-![Triangulation Example](<img width="670" alt="image" src="https://github.com/user-attachments/assets/3aa262d2-8393-472a-89e4-d43850e2d103">
-)
