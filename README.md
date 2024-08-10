@@ -30,7 +30,7 @@ Below are some screenshots of the application:
 ![Main Window](mainwin.png)
 
 ### Triangulation Example
-![Triangulation Example](wxexemplewin.png)
+![Triangulation Example](wxemplewin.png)
 
 ## Installation
 
