@@ -37,7 +37,8 @@ Below are some screenshots of the application:
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-cd triangulation-project
-pip install -r requirements.txt
+```bash
+   cd triangulation-project
+
 
 
