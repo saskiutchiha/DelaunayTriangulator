@@ -27,7 +27,7 @@ Triangulation is a fundamental technique used in various fields such as computer
 Below are some screenshots of the application:
 
 ### Main Window
-![Main Window](images/main_window.png)
+![Main Window](OIP.jpeg)
 
 ### Triangulation Example
 ![Triangulation Example]()
