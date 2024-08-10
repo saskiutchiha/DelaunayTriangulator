@@ -12,7 +12,6 @@ This project involves a Python application that demonstrates the process of tria
 - [Files](#files)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 Triangulation is a fundamental technique used in various fields such as computer graphics, finite element analysis, and geographic information systems. This project implements a triangulation algorithm and provides a GUI to visualize and interact with the triangulation process.
